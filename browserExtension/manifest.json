@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Extract Data from Table",
+    "version": "1.0",
+    "description": "Extrae datos de tablas dinámicas y los exporta a Excel",
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "downloads"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.fhalmeria.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "host_permissions": [
+      "https://www.fhalmeria.com/*"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }
