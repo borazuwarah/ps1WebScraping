@@ -1,0 +1,17 @@
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\bin\Release\net6.0\win-x64\JulioTest.exe
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\bin\Release\net6.0\win-x64\JulioTest.deps.json
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\bin\Release\net6.0\win-x64\JulioTest.runtimeconfig.json
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\bin\Release\net6.0\win-x64\JulioTest.dll
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\bin\Release\net6.0\win-x64\JulioTest.pdb
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\bin\Release\net6.0\win-x64\HtmlAgilityPack.dll
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.csproj.CopyComplete
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.dll
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\refint\JulioTest.dll
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.pdb
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\JulioTest.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\obj\Release\net6.0\win-x64\ref\JulioTest.dll

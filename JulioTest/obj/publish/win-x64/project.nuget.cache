@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9G10lT0QvTIFxTCKeK4uEC7Lf1sJKQR3kwkDXF7ii2mk8uItfhiaxD8CH92Zo5D3SNlczhJQ10mrHjvbrvDMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pablo\\source\\repos\\JulioTest\\JulioTest\\JulioTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pablo\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
+  "logs": []
+}

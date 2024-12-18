@@ -1,0 +1,2 @@
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\bin\Release\net6.0\publish\win-x64\JulioTest.pdb
+C:\Users\Pablo\source\repos\JulioTest\JulioTest\bin\Release\net6.0\publish\win-x64\JulioTest.exe
